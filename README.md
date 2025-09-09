@@ -9,3 +9,6 @@ pip freeze > requirements.txt
 
 ## Instalar dependencias desde requirements.txt
 pip install -r requirements.txt
+
+## Verficar instalacion de flask-wtf
+pip show flask-wtf
